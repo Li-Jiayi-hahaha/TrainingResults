@@ -1,0 +1,15 @@
+(cl:defpackage ros_tut-srv
+  (:use )
+  (:export
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+   "NONETYPE"
+   "<NONETYPE-REQUEST>"
+   "NONETYPE-REQUEST"
+   "<NONETYPE-RESPONSE>"
+   "NONETYPE-RESPONSE"
+  ))
+

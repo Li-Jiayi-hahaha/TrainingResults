@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_roy_thinkpad_t14_gen_1__33609: http://roy-ThinkPad-T14-Gen-1:33609/
+rosversion: '1.15.13
+
+  '
+run_id: 56373baa-6f9d-11ec-aa41-334c99a442ca
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 69
